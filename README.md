@@ -1,6 +1,6 @@
 # FoodLover
 
-FoodLover is a local Flask + Docker Compose website, designed for storing and managing user input and user information.
+FoodLover is a local Flask + Docker Compose website, designed for storing, managing and sharing user food recipes.
 
 ## Technology Stack
 
