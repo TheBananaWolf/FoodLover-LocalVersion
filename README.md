@@ -20,6 +20,8 @@ FoodLover is a local Flask + Docker Compose website, designed for storing, manag
 1. Clone the repository to your local machine.
 2. Start the application using Docker Compose: `docker-compose up -d`.
 3. Access the application in a browser at `http://localhost:5000`.
+4. Upload the pdf file for the Breakfast, Lunch, Dinner, and Snack through login/register
+5. Access the corresponding information by clicking Breakfast, Lunch, Dinner, and Snack at Nav bar
 
 ## License
 
