@@ -36,6 +36,7 @@ FoodLover is a local Flask + Docker Compose website, designed for storing, manag
 <br>
 <img width="583" alt="image" src="https://github.com/guanjie-tom-wang/FoodLover-LocalVersion/assets/80410357/b2ecc30e-157e-4795-8fc5-092c8cd53ca6">
 <br>
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
